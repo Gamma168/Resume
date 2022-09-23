@@ -1,4 +1,4 @@
-[Visual AI Studio](/PDFs/isual AI Studio.pdf)
+[Visual AI Studio](/PDFs/Visual AI Studio.pdf)
 
 [LonGreat ML.NET](/PDFs/LonGreatMLNET.pdf)
 
