@@ -1,6 +1,6 @@
 [Visual AI Studio](/PDFs/Visual%20AI%20Studio.pdf)
 
-[LonGreat ML.NET](http://gitub.longreat.net)
+[LonGreat ML.NET](http://github.longreat.net)
 
 [VISUAL MAKER報表伺服器](/PDFs/VISUAL%20MAKER報表伺服器.pdf)
 
