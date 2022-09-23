@@ -1,8 +1,8 @@
-[Visual AI Studio](/PDFs/Visual AI Studio.pdf)
+[Visual AI Studio](/PDFs/VISUAL%20MAKER報表伺服器.pdf)
 
 [LonGreat ML.NET](/PDFs/LonGreatMLNET.pdf)
 
-[VISUAL MAKER報表伺服器](/PDFs/VISUAL MAKER報表伺服器.pdf)
+[VISUAL MAKER報表伺服器](/PDFs/VISUAL%20MAKER報表伺服器.pdf)
 
 [Visual Maker](/PDFs/LonGreatMLNET.pdf)
 
