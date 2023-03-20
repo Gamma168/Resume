@@ -1,4 +1,4 @@
-[Mind Plat](/PDFs/mindplat.pdf)
+[Mind Plat AI2.0開發平台](/PDFs/MindPlat.pdf)
 
 [Visual AI Studio](/PDFs/Visual%20AI%20Studio.pdf)
 
