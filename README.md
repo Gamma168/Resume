@@ -1,4 +1,4 @@
-[Mind Plat AI2.0開發平台](/PDFs/MindPlat.pdf)
+[Mind Plat AI2.0 開發平台](https://github.com/Gamma168/Resume/blob/main/PDFs/MindPlat.pdf)
 
 [Visual AI Studio](/PDFs/Visual%20AI%20Studio.pdf)
 
