@@ -1,3 +1,5 @@
+[Mind Plat](/PDFs/mindplat.pdf)
+
 [Visual AI Studio](/PDFs/Visual%20AI%20Studio.pdf)
 
 [LonGreat ML.NET](http://github.longreat.net)
