@@ -1,6 +1,6 @@
 [Mind Plat AI2.0 開發平台](https://github.com/Gamma168/Resume/blob/main/PDFs/MindPlat.pdf)
 
-[Visual AI Studio](/PDFs/Visual%20AI%20Studio.pdf)
+[Visual AI Studio](https://github.com/Gamma168/Resume/blob/main/PDFs/AI%20Builder.pdf)
 
 [LonGreat ML.NET](http://github.longreat.net)
 
