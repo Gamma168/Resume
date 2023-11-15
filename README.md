@@ -1,3 +1,5 @@
+[Type AI](https://github.com/Gamma168/Resume/blob/main/PDFs/Type AI.pdf)
+
 [Mind Plat AI2.0 開發平台](https://github.com/Gamma168/Resume/blob/main/PDFs/MindPlat.pdf)
 
 [Visual AI Studio](https://github.com/Gamma168/Resume/blob/main/PDFs/AI%20Builder.pdf)
