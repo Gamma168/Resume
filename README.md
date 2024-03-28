@@ -1,3 +1,5 @@
+![Logo](LonGreatTitle.png)
+
 [.NET Type Explorer](https://github.com/Gamma168/dotNetTypeExplorer)
 
 [Type AI](https://github.com/Gamma168/Resume/blob/main/PDFs/Type%20AI.pdf)
