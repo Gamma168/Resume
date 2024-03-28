@@ -1,3 +1,5 @@
+[.NET Type Explorer](https://github.com/Gamma168/dotNetTypeExplorer)
+
 [Type AI](https://github.com/Gamma168/Resume/blob/main/PDFs/Type%20AI.pdf)
 
 [Mind Plat AI2.0 開發平台](https://github.com/Gamma168/Resume/blob/main/PDFs/MindPlat.pdf)
