@@ -24,5 +24,4 @@
 
 [企業戰情儀錶板]
 
-
-[E-MAIL](gamma168@gmail.com)
+![Logo](email.png)(gamma168@gmail.com)
