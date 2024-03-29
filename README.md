@@ -1,4 +1,4 @@
-![Logo](LonGreatAll.png)
+
 
 [.NET Type Explorer](https://github.com/Gamma168/dotNetTypeExplorer)
 
@@ -22,6 +22,4 @@
 
 [SSRS ReportViewer Export openoffice odt ods watermark](https://github.com/Gamma168/ReportViewer)
 
-[企業戰情儀錶板]
-
-![Logo](email.png)(gamma168@gmail.com)
+![Logo](LonGreatAll.png)
