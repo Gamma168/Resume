@@ -1,4 +1,4 @@
-![Logo](LonGreatTitle.png)
+![Logo](LonGreatAll.png)
 
 [.NET Type Explorer](https://github.com/Gamma168/dotNetTypeExplorer)
 
